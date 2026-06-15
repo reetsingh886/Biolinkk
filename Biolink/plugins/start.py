@@ -23,7 +23,7 @@ If you need help or updates, check the buttons below 👇"""
             ]
         )
 
-        photo_url = "https://graph.org/file/fab32af0223055637d4a6-356f444b3e7453b4d6.jpg"
+        photo_url = "https://i.ibb.co/rf2LR9BT/photo-AQAD0-CFr-G4-TSg-Ul9.jpg"
 
         try:
             # Group mein photo bhejna kabhi kabhi permission issue de sakta hai
