@@ -18,7 +18,7 @@ If you need help or updates, check the buttons below 👇"""
         buttons = InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("➕ Add me to your group", url="https://t.me/Aaradhyasongbot?startgroup=true")],
-                [InlineKeyboardButton("📢 Updates Channel", url="https://t.me/shivang_xd")],
+                [InlineKeyboardButton("📢 Updates Channel", url="https://t.me/subbubots")],
                 [InlineKeyboardButton("❓ Help & Commands", callback_data="help")]
             ]
         )
